@@ -2,8 +2,6 @@
 
 An MCP (Model Context Protocol) server that enables comprehensive research capabilities for Claude and other MCP-compatible AI assistants. This server integrates web and academic search functionality, allowing AI models to access current information from multiple sources, follow relevant links, and provide well-structured research results.
 
-![Research Workflow](workflow.svg)
-
 ## Overview
 
 Claude Deep Research is a powerful research tool that extends the capabilities of LLMs by providing:
@@ -25,6 +23,8 @@ The server follows MCP design principles to provide a seamless integration with 
 - **Smart Formatting**: Properly formats research with citations
 - **Visual Framework**: Provides guidance for creating effective data visualizations
 - **Structured Analysis**: Organizes research using academic methodologies
+
+![Research Workflow](./workflow.png)
 
 ## Installation
 
